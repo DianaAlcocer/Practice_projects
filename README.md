@@ -1,5 +1,13 @@
 # Practice projects
 
-Contiene proyectos realizados durante el aprendizaje de diversas herramientas:
+Contiene actividades orientadas al aprendizaje y dominio de diversas herramientas:
 
-- Selenium_tasks: Son practicas orientadas al manejo de Selenium WebDriver
+- Selenium WebDriver
+- Python
+- Pytest
+- Page Object Model
+
+### Recursos:
+
+- Book Python Crash Course
+- Test Automatization University (TAU)
