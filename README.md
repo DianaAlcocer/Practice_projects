@@ -10,5 +10,5 @@ Contiene actividades orientadas al aprendizaje y dominio de diversas herramienta
 ### Recursos:
 
 - Book Python Crash Course
-- Test Automatization University (TAU)
+- Test Automation University (TAU)
 - TripleTen Bootcamp
